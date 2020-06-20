@@ -20,9 +20,3 @@ Implementation:
 4. NPS of each pixel is computed (with k=5).
 
 5. The images are segmented and the results saved.
-
-Observation:
-
-We can see that for all the images, segmentation from NPS captures more information than the other two images. Hence for all the 4 images:
-
-(c)>(a)=(b)
